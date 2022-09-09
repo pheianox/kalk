@@ -1,4 +1,4 @@
 # kalk
 Web Calculator
 
-[Demo](https://shiny-snickerdoodle-ec9f51.netlify.app/)
+[Demo](https://pheianox-kalk.netlify.app/)
