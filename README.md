@@ -1,4 +1,4 @@
-# kalk
-Web Calculator
+# Kalk
+Modern calculator
 
-[Demo](https://pheianox-kalk.netlify.app/)
+[Live Demo](https://pheianox-kalk.netlify.app/)
